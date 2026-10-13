@@ -1,0 +1,12 @@
+n=1024 thread=1 serial=6.546 paralel=5.096 benar=ya
+n=1024 thread=1 serial=4.835 paralel=4.928 benar=ya
+n=1024 thread=1 serial=4.701 paralel=5.009 benar=ya
+n=1024 thread=2 serial=4.884 paralel=2.590 benar=ya
+n=1024 thread=2 serial=4.980 paralel=2.591 benar=ya
+n=1024 thread=2 serial=4.995 paralel=2.736 benar=ya
+n=1024 thread=4 serial=5.357 paralel=1.794 benar=ya
+n=1024 thread=4 serial=5.551 paralel=1.714 benar=ya
+n=1024 thread=4 serial=5.231 paralel=1.587 benar=ya
+n=1024 thread=8 serial=5.328 paralel=1.066 benar=ya
+n=1024 thread=8 serial=5.069 paralel=1.053 benar=ya
+n=1024 thread=8 serial=5.767 paralel=1.090 benar=ya
