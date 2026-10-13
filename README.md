@@ -1,6 +1,6 @@
 # Praktikum 1 – Pemrograman Shared Memory dengan OpenMP (A05)
 
-Nama: Nama Lengkap Kamu · NIM: 123456789
+Nama: Sachio Aji · NIM: 09011482528013
 
 ## Struktur folder
 ```
